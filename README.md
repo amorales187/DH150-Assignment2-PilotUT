@@ -4,4 +4,8 @@
 
 ## Introduction
 I conducted a usability test of weather.gov with one plot tester. 
-The main usabily issues from the 
+
+**The main usability issues from the heuristic evaluation that needed to be addressed first:** 
+* Consistency and standards
+* User control and freedom
+* Aesthetic and minimalist design 
