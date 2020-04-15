@@ -3,7 +3,7 @@
 
 
 ## Introduction
-I conducted a usability test of weather.gov with one plot tester. 
+I conducted a usability test of weather.gov with one plot tester. [Weather.gov](weather.gov)
 
 **The main usability issues from the heuristic evaluation that needed to be addressed first:** 
 * Consistency and standards
@@ -23,3 +23,7 @@ Aesthetic and minimalist design is another function I thought would need improve
 ## Survey
 
 Here is the link to my survey. [Click Here]( https://forms.gle/uNzmPYgLFfsB7oBJ6)
+
+## User Test Video 
+
+Here is the link to the video of my user testing weather.gov 
