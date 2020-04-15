@@ -3,7 +3,7 @@
 
 
 ## Introduction
-I conducted a usability test of weather.gov with one plot tester. [Weather.gov](weather.gov)
+I conducted a usability test of weather.gov with one plot tester. [Weather.gov](https://www.weather.gov/)
 
 **The main usability issues from the heuristic evaluation that needed to be addressed first:** 
 * Consistency and standards
