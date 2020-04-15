@@ -27,3 +27,21 @@ Here is the link to my survey. [Click Here]( https://forms.gle/uNzmPYgLFfsB7oBJ6
 ## User Test Video 
 
 Here is the link to the video of my user testing weather.gov [Click Here](https://drive.google.com/open?id=146rhG0ssGRv6lxYyV0zBIm-MadbrMavK)
+
+## Discussion 
+
+**What I Learned**
+
+During this pilot test, I learned a lot. The most important thing I learned from this test was not about the usability of the website, but conducting the test itself. After going through the survey and the tasks and having the video recording, I stopped the video and waited to save, but something went wrong with video recording app and it would not respond so I was forced to quit the app and I lost my data. I had to redo the survey, tasks, and recording. I learned that it is very important to do your testing with enough time before the deadline, so you can prepare for mishaps like that. I also learned that many of the functions that I found to be not be user friendly in my heuristic evaluation, were some of the same things my tester also found to be difficult, such as navigating back to a home screen or the disjointed nature of the different links to websites that were accessible within the weather.gov functions. I also learned more from my user about how the information presented was confusing to users, many users want simple answers and weather.gov did not provide that too many times.
+
+**What Went Well**
+
+My user caught on to some of the things I did not like about the website, such as the different websites that came up (consistency and standards). She also expressed many times, how it was hard to understand the information that was given because it was so complex and not presented in a user friendly way (aesthetic and minimalist design). When the data was easy to read, she expressed that she liked how succinct it was compared to previous things she encountered earlier. 
+
+**What Did Not Go Well**
+
+The clearest thing that did not go well, was the video recording. Losing almost 30 minutes of my user test was a big hit to this UT practice.
+
+**Things to Improve**
+
+Going forward, in the future, for usability testing, I would like to prevent any hiccups from happening. As a moderator, I do not know if I did everything right. I wasn’t sure when I should give help or speak. Moving forward I would like to improve my skills as a moderator.
