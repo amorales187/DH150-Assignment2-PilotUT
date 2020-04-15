@@ -26,7 +26,7 @@ Here is the link to my survey. [Click Here]( https://forms.gle/uNzmPYgLFfsB7oBJ6
 
 ## User Test Video 
 
-Here is the link to the video of my user testing weather.gov [Click Here](https://drive.google.com/open?id=146rhG0ssGRv6lxYyV0zBIm-MadbrMavK)
+Here is the link to the video of my user testing weather.gov. [Click Here](https://drive.google.com/open?id=146rhG0ssGRv6lxYyV0zBIm-MadbrMavK)
 
 ## Discussion 
 
@@ -40,8 +40,8 @@ My user caught on to some of the things I did not like about the website, such a
 
 **What Did Not Go Well**
 
-The clearest thing that did not go well, was the video recording. Losing almost 30 minutes of my user test was a big hit to this UT practice.
+The clearest thing that did not go well, was the video recording. Losing almost 30 minutes of my user test was a big hit to this UT practice. I also think that my skills as a moderator need to be improved, as I was not sure when I should intervene. 
 
 **Things to Improve**
 
-Going forward, in the future, for usability testing, I would like to prevent any hiccups from happening. As a moderator, I do not know if I did everything right. I wasn’t sure when I should give help or speak. Moving forward I would like to improve my skills as a moderator.
+Going forward, in the future, for usability testing, I would like to prevent any hiccups from happening. As a moderator, I do not know if I did everything right. I wasn’t sure when I should give help or speak. Moving forward I would like to improve my skills as a moderator. Through the test, I found that the three major heuristics I thought needed to be improved as the user found them difficult to use or cumbersome. Through the test an user feedback, it was discovered that how the information and how much information is presented needs to be changed to allow for easier user use (flexibility and efficiency of use).
