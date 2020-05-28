@@ -1,4 +1,4 @@
-# DH150-Assignement2-PilotUT
+# DH150-Assignment2-PilotUT
 ## Emily DiPressi 
 
 
